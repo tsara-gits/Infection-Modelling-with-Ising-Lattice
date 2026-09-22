@@ -1,5 +1,9 @@
 # Infection-Modelling-with-Ising-Lattice
 
+# Project Overview
+
+This project reproduces the methodology presented in Serra, Nicola et al., *“Diffusion modelling of COVID-19 under lockdown conditions”*, using a two-dimensional Ising model and Markov Chain Monte Carlo simulation to model disease spread. It aims to reproduce and improve upon the original approach, while also critically discussing the arguments for and against the proposed analogy between Ising-model dynamics and epidemiological disease transmission. The work further extends the model by introducing explicit infectious and recovery/immunity times.
+
 # MCMC Ising Model for Disease Dynamics
 
 This code implements a two-dimensional Ising-model simulation for modelling infectious-disease dynamics using a modified Monte Carlo approach.
